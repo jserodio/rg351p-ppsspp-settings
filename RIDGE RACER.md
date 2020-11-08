@@ -1,6 +1,5 @@
 # RIDGE RACER
-## 30/60 (100% speed in all tracks) FPS smooth settings:  
-*(Tested on PPSSPP v1.10.3-504 - 2020/11/08 as in ISO Date format AAAA-MM-DD)*  
+## 30/60 FPS (100% speed and smooth in all tracks)
 
 ❎ means OFF or unchecked  
 ☑️ means ON or checked
