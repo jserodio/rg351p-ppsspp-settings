@@ -4,9 +4,9 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 
 # EMUELEC v3.9 UPDATED VERSION
 
-## DRAGON BALL Z SHIN BUDOKAI ANOTHER ROAD
+## DRAGON BALL Z - SHIN BUDOKAI ANOTHER ROAD
 ### 60 FPS (100% full smooth gameplay)
-[Settings](DRAGON%20BALL%20Z:%20SHIN%20BUDOKAI%20ANOTHER%20ROAD.md)
+[Settings](DRAGON%20BALL%20Z%20-%20SHIN%20BUDOKAI%20ANOTHER%20ROAD.md)
 
 ## FINAL FANTASY VII - CRISIS CORE
 ### 30/30 FPS (100% smooth gameplay)
