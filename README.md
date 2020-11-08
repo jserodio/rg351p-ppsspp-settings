@@ -20,6 +20,10 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 ### 60/60 FPS (100% smooth gameplay)
 [Settings](LOCOROCO.md)
 
+## PATAPON
+### 30/30 FPS (100% smooth gameplay)
+[Settings](PATAPON.md)
+
 ## RIDGE RACER
 ### 30/60 FPS (100% speed and smooth in all tracks)
 [Settings](RIDGE%20RACER.md) 
