@@ -1,4 +1,4 @@
-# DRAGON BALL Z: SHIN BUDOKAI ANOTHER ROAD
+# DRAGON BALL Z - SHIN BUDOKAI ANOTHER ROAD
 ## 60 FPS 100% full smooth gameplay
 
 ❎ means OFF or unchecked  
