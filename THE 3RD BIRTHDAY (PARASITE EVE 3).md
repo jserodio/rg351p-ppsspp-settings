@@ -1,5 +1,5 @@
 # THE 3RD BIRTHDAY (PARASITE EVE 3)
-## 30/30 100% smooth gameplay walking and cutscenes but 25/30 in some gunfights:  
+## 30/30 FPS (99% smooth gameplay, minor fps drops in some gunfights)  
 
 ❎ means OFF or unchecked  
 ☑️ means ON or checked
