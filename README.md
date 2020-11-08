@@ -2,7 +2,7 @@
 A place to drop good settings for PPSSPP on an Anbernic RG351P device.
 Please feel free to edit/add any game and/or settings you are comfortable with!
 
-# EMUELEC v3.8 TEST VERSION
+# EMUELEC v3.9 UPDATED VERSION
 
 ## RIDGE RACER
 ### 30/60 FPS smooth settings:  
@@ -13,6 +13,7 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 
 Rendering mode |  
 ------------ | -------------
+Backend | **OpenGL**
 Mode | **Buffered rendering** 
 Simulate block transfer effects | ☑️
 
@@ -72,30 +73,36 @@ Show FPS counter | **Both** (Optional: as you wish)
 
 Rendering mode |  
 ------------ | -------------
+Backend | **OpenGL**
 Mode | **Buffered rendering** 
-Simulate block transfer effects | ☑️
+Simulate block transfer effects | ❎
 
 Framerate control |  
 ------------ | -------------
 Frame skipping | **OFF**    
 Frame skipping type | **Number of Frames**  
 Auto Frameskip | ❎
-Alternative speed | **100%**  
+Alternative speed | **Disabled** 
 ALternative speed 2 | **Disabled**
 
-Features |  
+Postprocessing effect |  
 ------------ | -------------
-Postprocessing shader | **OFF**  
+Postprocessing shader #1 | **OFF**
+
+Screen layout |  
+------------ | -------------
 Fullscreen | ☑️ 
 
 Performance |  
 ------------ | -------------
 Rendering resolution | **Auto(1:1)**  
 VSync | ☑️ 
+Render duplicate frames to 60 Hz |  ☑️ 
 Buffer graphics commands (faster, input lag) | **No buffer**  
 Hardware transform | ☑️ 
 Software skinning | ❎
 Vertex cache | ☑️ 
+Clear framebuffers on first use (speedhack) | ☑️ 
 Lazy texture catching (speedup) | ☑️
 Retain changed textures (sometimes slower) | ❎
 Disable slower effects (speedup) | ☑️ 
@@ -111,7 +118,7 @@ Texture filtering |  
 ------------ | -------------
 Anisotropic filtering | **OFF**  
 Texture filtering | **Linear**  
-Screen scaling filter | **Linear** (Optional: Nearest)  
+Screen scaling filter | **Linear**  
 
 Hack Settings |  
 ------------ | -------------
@@ -120,6 +127,16 @@ Lower resolution for effects (reduces artifacts) | **OFF**
 Overlay information |  
 ------------ | -------------
 Show FPS counter | **Both** (Optional: as you wish)
+Show debug statistics | ❎
+
+System Emulation |  
+------------ | -------------
+Fast memory (unstable) | ❎
+Ignore bad memory acceses | ☑️
+I/O timing method | **Fast (lag on slow storage)**
+Force real clock sync (slower, less lag) | ❎
+Change emulated PSP's CPU clock (unstable) | **999**
+
 
 ### PATAPON
 
