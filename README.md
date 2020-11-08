@@ -31,3 +31,13 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 ## THE 3RD BIRTHDAY (PARASITE EVE 3)
 ### 30/30 FPS (99% smooth gameplay, minor fps drops in some gunfights)
 [Settings](THE%203RD%20BIRTHDAY%20(PARASITE%20EVE%203).md)
+
+## Games I tried and you should avoid
+These are unplayable as of today
+- Phantasy star portable 2 (60%-99%)
+- Tekken 6 (60%)
+- killzone (20%)
+- Hammerin' hero (50%)
+- Medievil (50%)
+- Ratchet and clank (70-99%)
+- Ghosts and goblins (99-100%) playable but high input lag
