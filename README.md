@@ -40,4 +40,5 @@ These are unplayable as of today
 - Hammerin' hero (50%)
 - Medievil (50%)
 - Ratchet and clank (70-99%)
+- Outrun 2006: Coast 2 Coast (20%)
 - Ghosts and goblins (99-100%) playable but high input lag
