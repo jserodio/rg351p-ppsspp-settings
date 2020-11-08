@@ -1,5 +1,5 @@
 # FINAL FANTASY VII - CRISIS CORE
-## 30/30 100% smooth gameplay
+## 30/30 FPS (100% smooth gameplay)
 
 ❎ means OFF or unchecked  
 ☑️ means ON or checked
