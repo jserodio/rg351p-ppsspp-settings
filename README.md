@@ -2,7 +2,7 @@
 A place to drop good settings for PPSSPP on an Anbernic RG351P device.
 Please feel free to edit/add any game and/or settings you are comfortable with!
 
-# EMUELEC v3.9 UPDATED VERSION
+# EMUELEC v3.9 UPDATED VERSION + PSP EMUELEC 3.7 FIX
 
 ## BOMBERMAN
 ### 30 FPS (100% full smooth gameplay)
