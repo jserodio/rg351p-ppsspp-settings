@@ -32,6 +32,10 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 ### 30/60 FPS (100% speed and smooth in all tracks)
 [Settings](RIDGE%20RACER.md) 
 
+## TEKKEN DARK RESURRECTION
+### 30/60 FPS 100% speed in battle - 60/60 FPS in Menus
+[Settings](TEKKEN%20DARK%20RESURRECTION.md)
+
 ## THE 3RD BIRTHDAY (PARASITE EVE 3)
 ### 30/30 FPS (99% smooth gameplay, minor fps drops in some gunfights)
 [Settings](THE%203RD%20BIRTHDAY%20(PARASITE%20EVE%203).md)
