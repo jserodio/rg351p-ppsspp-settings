@@ -24,6 +24,10 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 ### 60/60 FPS (100% smooth gameplay)
 [Settings](LOCOROCO.md)
 
+## MEGAMAN MAVERICK HUNTER X
+### 60/60 FPS (100% smooth gameplay)
+[Settings](MEGAMAN%20MAVERICK%20HUNTER%20X.md)
+
 ## PATAPON
 ### 30/30 FPS (100% smooth gameplay)
 [Settings](PATAPON.md)
