@@ -1,5 +1,5 @@
 # MEGAMAN MAVERICK HUNTER X
-## 30/30 FPS (100% smooth gameplay)
+## 60/60 FPS (100% smooth gameplay)
 
 This one doesn't need special settings but here it goes.
 
