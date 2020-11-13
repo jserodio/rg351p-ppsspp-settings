@@ -1,6 +1,7 @@
 # PSP game settings for RG351P
-A place to drop good settings for PPSSPP on an Anbernic RG351P device.
-Please feel free to edit/add any game and/or settings you are comfortable with!
+Please feel free to edit/add any game and/or settings you are comfortable with!  
+Open up an issue whenever you want to discuss about any game's settings.  
+https://github.com/jserodio/rg351p-ppsspp-settings/issues
 
 # EMUELEC v3.9 UPDATED VERSION + PSP EMUELEC 3.7 FIX
 
