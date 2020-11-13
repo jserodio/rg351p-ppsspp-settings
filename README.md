@@ -44,6 +44,10 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 ### 30/30 FPS (99% smooth gameplay, minor fps drops in some gunfights)
 [Settings](THE%203RD%20BIRTHDAY%20(PARASITE%20EVE%203).md)
 
+# HOT SHOTS GOLF / EVERYBODY'S GOLF
+## 30/30 FPS gameplay (during the shot bar works at 60 FPS but you get a black screen)
+[Settings](HOT%20SHOTS%20GOLF.md)
+
 ## Games I tried and you should avoid
 These are unplayable as of today
 - Phantasy star portable 2 (60%-99%)
