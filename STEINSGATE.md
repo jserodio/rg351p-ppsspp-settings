@@ -38,7 +38,7 @@ Software skinning | ☑️
 Vertex cache | ☑️ 
 Clear framebuffers on first use (speedhack) |  ❎
 Lazy texture catching (speedup) | ❎
-Retain changed textures (sometimes slower) |  ❎
+Retain changed textures (sometimes slower) |  ☑️ 
 Disable slower effects (speedup) |  ❎
 Spline/Bezier curves quality | **HIGH**  
 
