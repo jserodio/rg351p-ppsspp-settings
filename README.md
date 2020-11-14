@@ -37,6 +37,10 @@ https://github.com/jserodio/rg351p-ppsspp-settings/issues
 ### 30/60 FPS (100% speed and smooth in all tracks)
 [Settings](RIDGE%20RACER.md) 
 
+## STEINSGATE
+### 30/30 FPS gameplay (100% smooth gameplay)
+[Settings](STEINSGATE.md)
+
 ## TEKKEN DARK RESURRECTION
 ### 30/60 FPS 100% speed in battle - 60/60 FPS in Menus
 [Settings](TEKKEN%20DARK%20RESURRECTION.md)
