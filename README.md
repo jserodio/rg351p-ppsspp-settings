@@ -3,14 +3,12 @@ Please feel free to edit/add any game and/or settings you are comfortable with!
 Open up an issue whenever you want to discuss about any game's settings.  
 https://github.com/jserodio/rg351p-ppsspp-settings/issues
 
-# EMUELEC v3.9 UPDATED VERSION + PSP EMUELEC 3.7 FIX
-
 ## BOMBERMAN
-### 30 FPS (100% full smooth gameplay)
+### 30/30 FPS (100% full smooth gameplay)
 [Settings](BOMBERMAN.md)
 
 ## DRAGON BALL Z - SHIN BUDOKAI ANOTHER ROAD
-### 60 FPS (100% full smooth gameplay)
+### 60/60 FPS (100% full smooth gameplay)
 [Settings](DRAGON%20BALL%20Z%20-%20SHIN%20BUDOKAI%20ANOTHER%20ROAD.md)
 
 ## FINAL FANTASY VII - CRISIS CORE
@@ -52,6 +50,10 @@ https://github.com/jserodio/rg351p-ppsspp-settings/issues
 ## HOT SHOTS GOLF / EVERYBODY'S GOLF
 ### 30/30 FPS gameplay (during the shot bar works at 60 FPS but you get a black screen)
 [Settings](HOT%20SHOTS%20GOLF.md)
+
+## Z.H.P. UNLOSING RANGER VS DARKDEATH EVILMAN
+### 60/60 FPS gameplay (100% smooth gameplay)
+[Settings](Z.H.P.%20UNLOSING%20RANGER%20VS%20DARKDEATH%20EVILMAN.md)
 
 ## Games I tried and you should avoid
 These are unplayable as of today
