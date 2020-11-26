@@ -12,8 +12,8 @@ https://github.com/jserodio/rg351p-ppsspp-settings/issues
 [Settings](DRAGON%20BALL%20Z%20-%20SHIN%20BUDOKAI%20ANOTHER%20ROAD.md)
 
 ## FINAL FANTASY TACTICS
-100% speed in battle
-### [Settings](FINAL%20FANTASY%20TACTICS.md)
+### 100% speed in battle
+[Settings](FINAL%20FANTASY%20TACTICS.md)
 
 ## FINAL FANTASY VII - CRISIS CORE
 ### 30/30 FPS (100% smooth gameplay)
