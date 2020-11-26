@@ -1,5 +1,5 @@
 # DISGAEA 2 - DARK HERO DAYS
-## 30/30 FPS (100% smooth gameplay)
+## 30/60 FPS (100% smooth gameplay)
 
 ❎ means OFF or unchecked  
 ☑️ means ON or checked
