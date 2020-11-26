@@ -4,11 +4,19 @@ Open up an issue whenever you want to discuss about any game's settings.
 https://github.com/jserodio/rg351p-ppsspp-settings/issues
 
 ## BOMBERMAN
-### 30/30 FPS (100% full smooth gameplay)
+### 30/30 FPS (100% smooth gameplay)
 [Settings](BOMBERMAN.md)
 
+## DISGAEA INFINITE
+### 60/60 fps (100% smooth gameplay)
+[Settings](DISGAEA%20INFINITE.md)
+
+## DISGAEA 2 - DARK HERO DAYS
+### 30/60 FPS (100% smooth gameplay)
+[Settings](DISGAEA%202.md)
+
 ## DRAGON BALL Z - SHIN BUDOKAI ANOTHER ROAD
-### 60/60 FPS (100% full smooth gameplay)
+### 60/60 FPS (100% smooth gameplay)
 [Settings](DRAGON%20BALL%20Z%20-%20SHIN%20BUDOKAI%20ANOTHER%20ROAD.md)
 
 ## FINAL FANTASY TACTICS
