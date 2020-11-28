@@ -12,9 +12,9 @@ Simulate block transfer effects | ❎
 
 Framerate control |  
 ------------ | -------------
-Frame skipping | **OFF**    
+Frame skipping | **1**    
 Frame skipping type | **Number of Frames**  
-Auto Frameskip | ❎
+Auto Frameskip | ☑️
 Alternative speed | **Disabled** 
 ALternative speed 2 | **Disabled**
 
@@ -31,9 +31,9 @@ Performance |  
 Rendering resolution | **Auto(1:1)**  
 VSync | ☑️ 
 Render duplicate frames to 60 Hz |  ☑️ 
-Buffer graphics commands (faster, input lag) | **No buffer**  
+Buffer graphics commands (faster, input lag) | **Up to 2**  
 Hardware transform | ☑️ 
-Software skinning | ❎
+Software skinning | ☑️ 
 Vertex cache | ☑️ 
 Clear framebuffers on first use (speedhack) | ☑️ 
 Lazy texture catching (speedup) | ☑️
