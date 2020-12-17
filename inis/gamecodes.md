@@ -12,6 +12,7 @@ ULUS10139 - TEKKEN DARK RESURRECTION
 ULUS10234 - DRAGON BALL Z SHIN BUDOKAI ANOTHER ROAD  
 ULUS10277 - Castlevania The Dracula X Chronicles  
 ULUS10391 - MONSTER HUNTER FREEDOM UNITE™  
+ULUS10392 - Hammerin' Hero
 ULUS10432 - Persona  
 ULUS10461 - Disgaea 2: Dark Hero Days  
 ULUS10490 - Grand Theft Auto: Chinatown Wars  
@@ -39,6 +40,7 @@ ULES00125 - Burnout Legends
 ULES00176 - Tales of Eternia  
 ULES00251 - Mega Man Maverick Hunter X  
 ULES00476 - Pro Evolution Soccer 6  
+ULES00479 - Lego Star Wars II: The Original Trilogy
 ULES00645 - METAL GEAR SOLID PORTABLE OPS  
 ULES00703 - BURNOUT DOMINATOR  
 ULES00756 - Manhunt 2  
